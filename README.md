@@ -3,13 +3,13 @@
 ## Sou estudante de Sistemas de Informação na USP
 
 Atualmente estou aprendendo a programar em :
--C
+- C
 
 Pretendo aprender a programar em:
--Pyton
--JavaScript
--HTML
--CSS
+- Pyton
+- JavaScript
+- HTML
+- CSS
 
 ```
 #include <stdio.h>
