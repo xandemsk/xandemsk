@@ -4,13 +4,12 @@
 
 Atualmente estou aprendendo a programar em :
 - C
+- HTML
+- CSS
 
 Pretendo aprender a programar em:
 - Pyton
 - JavaScript
-- HTML
-- CSS
-
 ```
 #include <stdio.h>
 int main(){
